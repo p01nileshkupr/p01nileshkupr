@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p01nileshkupr
 - 👀 I’m interested in Universal App Development including to be native iOS developer.
 - 🌱 I’m currently learning Mobile Developement using Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on native iOS & Flutter apps developement teams.
 - 📫 How to reach me : Teams
 
 <!---
